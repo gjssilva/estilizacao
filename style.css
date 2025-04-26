@@ -1,50 +1,38 @@
 
-/* Background da página com imagem */
 body {
-    background-image: url('background.jpg'); /* Substitua pelo caminho da sua imagem */
+    background-image: url('makima_chorando.jpg');
     background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
     font-family: Arial, sans-serif;
     color: #333;
   }
   
-  /* Estilo para cada parágrafo individualmente */
-  #paragrafo1 {
-    color: darkblue;
+  #p1 {
+    color: rgb(60, 60, 187);
     font-size: 18px;
   }
   
-  #paragrafo2 {
+  #p2 {
     color: green;
     font-style: italic;
   }
   
-  #paragrafo3 {
+  #p3 {
     color: crimson;
     font-weight: bold;
   }
   
-  #paragrafo4 {
+  #p4 {
     color: orange;
     text-decoration: underline;
   }
   
-  #paragrafo5 {
+  #p5 {
     border: 2px solid black;
     padding: 10px;
     background-color: rgba(255, 255, 255, 0.6);
   }
   
-  #paragrafo6 {
+  #p6 {
     text-shadow: 2px 2px 5px gray;
     font-size: 20px;
   }
-  
-  /* Estilo opcional para os títulos */
-  h1, h2, h3, h4 {
-    text-align: center;
-    color: white;
-    text-shadow: 1px 1px 2px black;
-  }
-  
