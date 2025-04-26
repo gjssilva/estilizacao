@@ -7,32 +7,33 @@ body {
   }
   
   #p1 {
-    color: rgb(60, 60, 187);
+    color: rgb(200, 37, 37);
+    border: 2px solid black;
     font-size: 18px;
   }
   
   #p2 {
-    color: green;
+    color: rgb(196, 120, 34);
     font-style: italic;
   }
   
   #p3 {
-    color: crimson;
+    color: rgb(213, 213, 34);
     font-weight: bold;
   }
   
   #p4 {
-    color: orange;
+    color: rgb(107, 198, 37);
     text-decoration: underline;
   }
   
   #p5 {
-    border: 2px solid black;
+    color: rgb(37, 184, 200);
     padding: 10px;
-    background-color: rgba(255, 255, 255, 0.6);
   }
   
   #p6 {
-    text-shadow: 2px 2px 5px gray;
+    color: rgb(45, 40, 190);
+    text-shadow: 2px 2px 5px rgb(146, 29, 193);
     font-size: 20px;
   }
